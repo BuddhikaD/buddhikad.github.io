@@ -1,7 +1,7 @@
 # Personal Portfolio 👨🏿‍💻
 
-> Check it out [here](https://buddhikad.netlify.app/) <br>
-> [![Netlify Status](https://api.netlify.com/api/v1/badges/56653bd8-2d78-4e87-8d4d-92d737457a07/deploy-status)](https://app.netlify.com/sites/buddhikad/deploys)
+> Check it out [here](https://buddhikadananjaya.me) <br>
+> [![Netlify Status](https://api.netlify.com/api/v1/badges/bcbf1f98-1226-46ca-8d3c-162921500160/deploy-status)](https://app.netlify.com/sites/eager-kare-7982a4/deploys)
 
 
 ### Technologies + Tools used 
