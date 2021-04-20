@@ -1,6 +1,6 @@
 # Personal Portfolio 👨🏿‍💻
 
-> Check it out [here](https://buddhikadananjaya.me) <br>
+> Check it out [here](https://buddhikadananjaya.me) <br><br>
 > [![Netlify Status](https://api.netlify.com/api/v1/badges/bcbf1f98-1226-46ca-8d3c-162921500160/deploy-status)](https://app.netlify.com/sites/eager-kare-7982a4/deploys)
 
 
