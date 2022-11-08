@@ -15,7 +15,7 @@
         <br/>I<span>'m Buddhika&nbsp;Dananjaya</span>.
       </h2>
       <div class="col-md-10 info">
-        A <b>Student ,Intern DevOps Engineer ,Developer</b> and <b>technical writer</b> passionate
+        A <b>Student ,DevOps Engineer ,Developer</b> and <b>technical writer</b> passionate
         about solving problems with tech.<br/>
         I am skilled with building exceptional <b>websites</b> and
         <b>mobile applications</b>, and currently i'm exploring the DevOps things and Development things .
